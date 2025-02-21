@@ -74,7 +74,7 @@ If you’re in cybersecurity (or on your way there) and share any of these inter
 
 - **Email:** [Your Email]  
 - **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile]  
+  
 
 
 📌 *This page is a work in progress—more projects and insights coming soon!*  
