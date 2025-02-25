@@ -1,8 +1,6 @@
 # Hi, I'm Rebecca! 👋  
 
-I’ve always been drawn to roles that challenge me, and for me, cybersecurity is the perfect blend of **problem-solving, protection, and purpose.** Coming from an **operations and leadership background**, I felt my skills could be used in more impactful ways, and cybersecurity does exactly that.
-
-Now, I’m **building hands-on experience in security operations, risk analysis, and incident response**, while working toward key certifications. 
+I’ve always been drawn to roles that challenge me, and for me, cybersecurity is the perfect blend of **problem-solving, protection, and purpose.** Coming from an **operations and leadership background**, I felt my skills could be used in more impactful ways, and cybersecurity does exactly that. Now, I’m **building hands-on experience in security operations, risk analysis, and incident response**, while working toward key certifications. 
 
 I see my career transition as more than responding to threats—it’s about **helping people stay ahead of them**. Whether it’s making security easier to understand, strengthening defenses before issues arise, or empowering others to protect themselves online, I want to be part of creating a **safer, more resilient digital world for everyone**.
 
