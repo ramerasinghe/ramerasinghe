@@ -75,7 +75,6 @@ Cybersecurity is an important part of my journey, but staying balanced is just a
 
 If you’re in cybersecurity (or on your way there) and share any of these interests, I’d love to connect!
 
-- **Email:** rcamerasinghe@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rebeccaamerasinghe/  
   
 
